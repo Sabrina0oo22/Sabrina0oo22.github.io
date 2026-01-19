@@ -26,5 +26,5 @@ Education
 
 Publication
 ======
-Na Zhang*,Qiong Wu,Shaoqiong Li,Chongyi Wang,Ayan Mao,Qing Guo,Wuqi Qiu.[Trends and inequality of human resource in centers for disease control and prevention in China from 2019 to 2023](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1553314/full)
+Na Zhang*,Qiong Wu,Shaoqiong Li,Chongyi Wang,Ayan Mao,Qing Guo,Wuqi Qiu.[Trends and inequality of human resource in centers for disease control and prevention in China from 2019 to 2023[J].Front Public Health.2025(13):15533314](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1553314/full)
 
