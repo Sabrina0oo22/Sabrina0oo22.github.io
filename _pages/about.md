@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year Ph.D. student in [school of public health](https://sph.pku.edu.cn), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. Xinglin Feng](https://sph.pku.edu.cn/info/1683/4841.htm). My research interests mainly focus on health service research.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Na Zhang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:sabrina0oo22@stu.pku.edu.cn) / [Github](https://github.com/Sabrina0oo22) 
 
