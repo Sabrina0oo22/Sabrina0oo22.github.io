@@ -2,7 +2,7 @@ I am a first-year Ph.D. student in [school of public health](https://sph.pku.edu
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:sabrina0oo22@stu.pku.edu.cn) / [Github](https://github.com/Sabrina0oo22) / [Wechat](../images/wechat.jpg)
+[Email](mailto:sabrina0oo22@stu.pku.edu.cn) / [Github](https://github.com/Sabrina0oo22) 
 
 ---
 
