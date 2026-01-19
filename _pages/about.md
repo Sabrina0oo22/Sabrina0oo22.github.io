@@ -12,8 +12,6 @@ Publication
 
 Education
 ======
-  2025/09-now P.h.D. student, Peking University,Beijing,China
-  2022/09-2025.06 MPH,Peking Union Medical College,Beijing,China
-  2018/09-2022/06 B.P.A.,Huazhong University of Science and Technology,Wuhan,China
-  
-
+2025/09-now P.h.D. student, Peking University,Beijing,China
+2022/09-2025.06 MPH,Peking Union Medical College,Beijing,China
+2018/09-2022/06 B.P.A.,Huazhong University of Science and Technology,Wuhan,China
