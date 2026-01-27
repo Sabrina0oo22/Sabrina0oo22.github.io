@@ -86,7 +86,7 @@ X_test_scaled = scaler.transform(X_test)
 
 ### 数值变量分布
 
-![数值变量分布](/images/portfolio/fertility/numerical_distribution.png)
+![数值变量分布](/images/numerical_distribution.png)
 
 从数值变量的描述性统计可以看出：
 - **年龄**：样本平均年龄34.65岁，标准差9.00，覆盖18-49岁育龄范围
@@ -95,7 +95,7 @@ X_test_scaled = scaler.transform(X_test)
 
 ### 分类变量分布
 
-![分类变量分布](/images/portfolio/fertility/categorical_distribution.png)
+![分类变量分布](/images/categorical_distribution.png)
 
 分类变量的频次分析揭示了样本的社会人口学特征：
 - **性别分布**：女性占比56.83%，略高于男性
@@ -104,7 +104,7 @@ X_test_scaled = scaler.transform(X_test)
 
 ### 生育意愿目标变量分布
 
-![生育意愿分布](/images/portfolio/fertility/fertility_distribution.png)
+![生育意愿分布](/images/fertility_distribution.png)
 
 生育意愿作为目标变量，其分布呈现：
 - 生育意愿=2 的样本占比最高（62.77%），表明大部分受访者倾向于中等生育意愿
@@ -146,7 +146,7 @@ def evaluate_model(model, X_train, X_test, y_train, y_test, model_name, is_svm=F
 
 ### 模型1：逻辑回归
 
-![逻辑回归混淆矩阵与ROC曲线](/images/portfolio/fertility/logistic_regression_results.png)
+![逻辑回归混淆矩阵与ROC曲线](/images/logistic_regression_results.png)
 
 逻辑回归作为基准模型，表现：
 - **准确率**：63.25%
@@ -157,7 +157,7 @@ def evaluate_model(model, X_train, X_test, y_train, y_test, model_name, is_svm=F
 
 ### 模型2：随机森林
 
-![随机森林混淆矩阵与ROC曲线](/images/portfolio/fertility/random_forest_results.png)
+![随机森林混淆矩阵与ROC曲线](/images/random_forest_results.png)
 
 随机森林模型表现：
 - **准确率**：54.64%
@@ -168,7 +168,7 @@ def evaluate_model(model, X_train, X_test, y_train, y_test, model_name, is_svm=F
 
 ### 模型3：支持向量机（SVM）
 
-![支持向量机混淆矩阵与ROC曲线](/images/portfolio/fertility/svm_results.png)
+![支持向量机混淆矩阵与ROC曲线](/images/svm_results.png)
 
 支持向量机模型表现：
 - **准确率**：63.13%
@@ -181,7 +181,7 @@ SVM 在准确率上接近逻辑回归，但ROC-AUC略低，表明在类别区分
 
 ## 模型性能对比与结论
 
-![模型性能对比](/images/portfolio/fertility/model_comparison.png)
+![模型性能对比](/images/model_comparison.png)
 
 ### 综合对比
 
