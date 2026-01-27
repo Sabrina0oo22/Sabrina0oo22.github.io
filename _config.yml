@@ -23,7 +23,7 @@ repository               : "Sabrina0oo22/Sabrina0oo22.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_B7453.png"
+  avatar           : "/images/IMG_B7453.png"
   name             : "Na Zhang(张娜)"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
